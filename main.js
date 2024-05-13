@@ -11,32 +11,32 @@ const teamCardsData = [
   {
     name: "Mai Elmetwally",
     title: "CS2",
-    img: "../images/team/mai.jpg",
+    img: "../images/team/mai.png",
   },
   {
     name: "Shahd Magdy",
     title: "CS2",
-    img: "../images/team/shahd.jpg",
+    img: "../images/team/shahd.png",
   },
   {
     name: "Sama Sabry",
     title: "CS2",
-    img: "../images/team/sama.jpg",
+    img: "../images/team/sama.png",
   },
   {
     name: "Moaz Magdy",
     title: "CS2",
-    img: "../images/team/moaz.jpg",
+    img: "../images/team/moaz.png",
   },
   {
     name: "",
     title: "",
-    img: "./images/meet-our-team-img.png",
+    img: "../images/meet-our-team-img.png",
   },
   {
     name: "Mohab Mohamed",
     title: "CS2",
-    img: "../images/team/mohab.jpg",
+    img: "../images/team/mohab.png",
   },
 ];
 
