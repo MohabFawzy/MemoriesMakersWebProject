@@ -9,8 +9,8 @@ Subscription plans: Silver, Gold, and Platinum.
 Utilizes HTML, CSS, and JavaScript.
 
 Technologies Used: 
-HTML
-CSS
+HTML - 
+CSS - 
 JavaScript
 
 How to Use: 
@@ -18,8 +18,8 @@ Clone the repository to your local machine.
 Open the index.html file in your web browser.
 
 Contributors: 
-Sama Sabry -
-Shahd Magdy -
-Mai Elmetwally -
-Moaz Magdy -
+Sama Sabry - 
+Shahd Magdy - 
+Mai Elmetwally - 
+Moaz Magdy - 
 Mohab Mohamed
