@@ -19,9 +19,3 @@ Memories Makers is a web project developed as part of a university project by a 
 ## How to Use
 1. Clone the repository to your local machine.
 2. Open the index.html file in your web browser.
-## Contributors
-- Sama Sabry
-- Shahd Magdy
-- Mai Elmetwally
-- Moaz Magdy
-- Mohab Mohamed
